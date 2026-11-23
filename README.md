@@ -9,7 +9,7 @@ A simple, interactive **CPS (Clicks Per Second) Test** that measures how fast yo
 - **Real-Time Score** — See how many clicks you've made.
 - **CPS Counter** — Instantly calculate your clicks per second.
 - **Clean UI** — Modern dark-themed interface with colorful gradients and glowing elements.
-- **Minecraft-Oriented** — Perfect for testing clicking speed for competitive Minecraft PvP.
+- **Minecraft-Oriented** — Perfect for testing clicking speed for competitive 1.7/1.8 PvP.
 
 ## 🎮 How to Use
 
@@ -36,7 +36,7 @@ A higher CPS means faster clicking!
 ## ⏱️ Available Test Durations
 
 | Duration | Test |
-|:---:|:---|
+|:---:|:---:|
 | 1 Second | Quick Test |
 | 2 Seconds | Short Test |
 | 5 Seconds | Short Test |
@@ -52,14 +52,9 @@ Clicking speed can play an important role in competitive Minecraft gameplay, esp
 Testing your CPS can help you:
 - Measure your clicking speed.
 - Track your improvement.
-- Compare different clicking techniques.
+- Compare different clicking techniques, such as drag, butterfly, jitter...
 - Challenge yourself to achieve a higher CPS.
-
-## 📸 Preview
-
-<!-- Add your project screenshot here -->
-<!-- ![CPS Test Preview](./screenshot.png) -->
 
 ---
 
-Made with ❤️ for everyone who loves clicking fast.
+Made with ❤️ from Tunisia.
